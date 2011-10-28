@@ -11,6 +11,8 @@ I created this project as a kind of excercise in creating my own little web fram
 ## Quick example application
 
 ```php
+<?php
+
 // Load the library
 require 'phabric.php';
 
