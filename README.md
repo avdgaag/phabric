@@ -6,7 +6,7 @@ Phabric uses PHP 5.3's closures to directly map routes to request handlers, insp
 
 See the inline documentation for more information.
 
-I created this project as a kind of excercise in creating my own little web framework using some of PHP's new features.
+I created this project as a kind of excercise in creating my own little web framework using some of PHP's new features. It was developed in a train on an iPad.
 
 ## Quick example application
 
